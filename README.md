@@ -1,4 +1,3 @@
-sport.db.logos-src
-==================
+# sport.db.logos
 
 sport team logos
