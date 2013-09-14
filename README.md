@@ -1,3 +1,2 @@
-# sport.db.logos
+# football.db.logos
 
-sport team logos
